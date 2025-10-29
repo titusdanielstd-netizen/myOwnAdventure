@@ -1,0 +1,9 @@
+adventure-story/
+│
+├── index.html
+├── forest.html
+├── cave.html
+├── treasure.html
+├── monster.html
+├── lost.html
+└── style.css
